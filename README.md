@@ -5,6 +5,7 @@ kitapyurdu.com'da en çok satılan 500 kitap bilgilerini çeker ve mongodb verit
 çalıştırmadan önce 
 
 ```sh
+    npm install
     cp .env.example .env
 ```
 
